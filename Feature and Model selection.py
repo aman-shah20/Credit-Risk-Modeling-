@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Jun 18 18:59:42 2024
-
-@author: NIHARIKA PANDA
 """
 
 # feature selection is done for cat and num features
